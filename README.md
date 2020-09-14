@@ -5,6 +5,6 @@ Adapted from https://codereview.stackexchange.com/q/141238
 
 ### Demo
 
-Compile the demo with the makefile. Then run it using:
+Compile the demo with the Makefile. Then run it using:
 
 `./demo`

@@ -26,4 +26,3 @@ int queuePeek(const Queue *, void *);
 size_t queueSize(const Queue *);
 
 #endif
-
