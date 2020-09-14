@@ -11,10 +11,10 @@
 
 typedef struct Queue_
 {
-  size_t memSize;
-  size_t size;
-  struct QueueNode *head;
-  struct QueueNode *tail;
+    size_t memSize;
+    size_t size;
+    struct QueueNode *head;
+    struct QueueNode *tail;
 } Queue;
 
 int dequeue(Queue *, void *);
